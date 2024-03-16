@@ -1,0 +1,14 @@
+sentence-transformers
+openai==0.28
+langchain-openai
+langchain-community
+langchain
+pandas
+seaborn
+selenium
+bs4
+faiss-cpu 
+langchain.faissvectorstores
+stramlit
+python-dotenv==1.0.0
+pinecone-client==2.2.1
