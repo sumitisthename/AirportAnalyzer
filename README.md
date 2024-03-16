@@ -1,2 +1,8 @@
 # AirportAnalyzer
-### Aero Insights is a simple application that scrapes data of given airport from the skytrax website and uses LLM to provide feedback to user about how to imporve the airport.
+### Aero Insights is an innovative application designed to extract data from the Skytrax website for any given airport and utilize Language Model capabilities to offer insightful feedback on how to enhance the airport experience.
+
+
+
+
+
+
